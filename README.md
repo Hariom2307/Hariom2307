@@ -1,4 +1,4 @@
-## Hi there I Am Hariom 👋
+## Hi there! I Am Hariom 👋
 ** `Digital Craftsmanship (with a touch of a few hobbies)`**
 
 - 🔭 I’m currently working on a Ed-Tech Platform
